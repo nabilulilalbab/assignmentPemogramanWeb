@@ -86,8 +86,6 @@ func main()  {
 
 Distribusi kode ini dilakukan di bawah lisensi MIT.
 
-```
-
 ### Penjelasan mengenai README.md:
 - **Deskripsi Proyek**: Penjelasan singkat tentang apa yang dilakukan program ini dan fitur utama.
 - **Cara Menggunakan**: Langkah-langkah yang dapat diikuti pengguna untuk menjalankan proyek ini.

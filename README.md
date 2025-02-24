@@ -1,4 +1,3 @@
-```markdown
 # Assignment Pemrograman Web
 
 Ini adalah proyek untuk pembelajaran pemrograman web menggunakan bahasa Go (Golang). Proyek ini menggunakan beberapa fitur dasar dari Go, seperti `bufio.Scanner` untuk membaca input dari pengguna. 

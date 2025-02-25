@@ -94,5 +94,3 @@ Distribusi kode ini dilakukan di bawah lisensi MIT.
 - **Penjelasan Kode**: Bagian ini menjelaskan bagaimana program bekerja dan memberikan contoh kode untuk referensi.
 - **Teknologi yang Digunakan**: Menyebutkan alat yang digunakan dalam proyek ini.
 
-Gambar akan ditampilkan selama file `screenshot_24022025_200500.jpg` dan `screenshot_24022025_200630.jpg` berada di folder yang sama dengan README.md.
-

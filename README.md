@@ -96,9 +96,3 @@ Distribusi kode ini dilakukan di bawah lisensi MIT.
 
 Gambar akan ditampilkan selama file `screenshot_24022025_200500.jpg` dan `screenshot_24022025_200630.jpg` berada di folder yang sama dengan README.md.
 
-### Langkah Selanjutnya
-1. Salin kode di atas ke dalam file `README.md`.
-2. Pastikan gambar yang disebutkan ada di dalam folder proyek Anda.
-3. Jika semuanya sudah siap, Anda bisa melakukan **commit** dan **push** perubahan ini ke repositori GitHub.
-
-Semoga penjelasan dan README ini membantu! Jika ada pertanyaan lebih lanjut, jangan ragu untuk bertanya. 😊
